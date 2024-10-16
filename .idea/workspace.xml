@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0ebf72f-e46b-4bad-8cc3-cfb700544095" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/.checkstyle" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/.checkstyle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/.pmd" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/.pmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/AUTHORS.md" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/AUTHORS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/Apache-2.0-LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/Apache-2.0-LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/TP1.md" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/TP1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/analysis-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/analysis-template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/doc/scenarios.md" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/doc/scenarios.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/doc/uml/FactoryWiring.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/doc/uml/FactoryWiring.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/doc/uml/SinglePlayerGame.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/doc/uml/SinglePlayerGame.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/pmd-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/pmd-rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src-assembly.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src-assembly.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/PacmanConfigurationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/PacmanConfigurationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/BoardFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/BoardFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/board/Unit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/game/GameFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/game/GameFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/game/SinglePlayerGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/game/SinglePlayerGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/CollisionInteractionMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/CollisionInteractionMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/CollisionMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/CollisionMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/DefaultPlayerInteractionMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/DefaultPlayerInteractionMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/LevelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/LevelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/MapParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/MapParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/Pellet.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/Pellet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/PlayerCollisions.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/PlayerCollisions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/PlayerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/PlayerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/PlayerScoreManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/PlayerScoreManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/ScoreWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/level/ScoreWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/Ghost.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/Ghost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Blinky.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Blinky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Clyde.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Clyde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/GhostColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/GhostColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/GhostFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/GhostFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Inky.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Inky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Navigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Navigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Pinky.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/Pinky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/npc/ghost/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/AnimatedSprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/AnimatedSprite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/EmptySprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/EmptySprite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/ImageSprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/ImageSprite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/PacManSprites.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/PacManSprites.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/Sprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/Sprite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/SpriteStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/sprite/SpriteStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/BoardPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/BoardPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/ButtonPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/ButtonPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/PacKeyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/PacKeyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/PacManUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/PacManUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/PacManUiBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/PacManUiBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/ScorePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/java/nl/tudelft/jpacman/ui/ScorePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/main/resources/board.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/main/resources/board.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/LauncherSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/LauncherSmokeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/BasicSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/BasicSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/BasicUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/BasicUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/BoardFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/BoardFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/BoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/BoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/DirectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/DirectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/OccupantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/OccupantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/board/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/integration/StartupSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/integration/StartupSystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/level/LevelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/level/LevelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/npc/ghost/GhostMapParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/npc/ghost/GhostMapParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/npc/ghost/NavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/npc/ghost/NavigationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/sprite/SpriteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/java/nl/tudelft/jpacman/sprite/SpriteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpacman-framework/src/test/resources/frameworkfeatures/startup/startup.feature" beforeDir="false" afterPath="$PROJECT_DIR$/jpacman-framework/src/test/resources/frameworkfeatures/startup/startup.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2nWHWEF72HYLm1R3K09JNElMtQ6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/marag/Documents/GitHub/Leleu_Margaux",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0ebf72f-e46b-4bad-8cc3-cfb700544095" name="Changes" comment="" />
+      <created>1729081942319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729081942319</updated>
+      <workItem from="1729081943406" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
