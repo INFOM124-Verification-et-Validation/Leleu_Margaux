@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
  * @author Arie van Deursen
  */
 public class DirectionTest {
-//    test pour voir si sonarcloud est bien installé :)
+//    test pour voir si sonarcloud est bien installé :(
 
     /**
      * Do we get the correct delta when moving north?
